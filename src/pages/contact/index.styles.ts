@@ -1,13 +1,13 @@
 import styled from '@emotion/styled';
 import { COLORS } from '@/constants/colors';
 
-export const SignupStyled = styled.div`
+export const StyledContact = styled.div`
   height: 100%;
   justify-content: stretch;
 
   .left-section {
     width: 60%;
-    background-color: ${COLORS.INDIGO_100};
+    background-color: ${COLORS.GREY_300};
 
     .main-text {
       line-height: 60px;

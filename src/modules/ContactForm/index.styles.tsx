@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 import { COLORS } from '@/constants/colors';
 
-export const StylesFormStyles = styled.div`
+export const StyledContactForm = styled.div`
   .mb-3 {
     margin-bottom: 16px;
   }
